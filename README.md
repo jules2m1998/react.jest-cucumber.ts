@@ -79,8 +79,10 @@ defineFeature(feature, (test: Function) => {
 
 ```
 
-## And run your tests
+## Run your tests
 
 ```shell
 npm run test
 ```
+
+## And enjoy 😊
