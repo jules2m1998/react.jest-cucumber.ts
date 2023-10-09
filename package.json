@@ -39,5 +39,15 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "jest-cucumber": "^3.0.1"
+  },
+  "jest": {
+    "testMatch": [
+      "**/*.steps.js",
+      "**/*.steps.tsx"
+    ]
   }
 }
